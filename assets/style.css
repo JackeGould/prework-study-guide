@@ -15,7 +15,8 @@ footer {
     color: #E3D9D7;
 }
 
-h1 {
+h1,
+h3 {
     text-align: center;
     color: #E3D9D7;
 }
@@ -24,6 +25,7 @@ h2 {
     text-align: center;
     color: #AB4F5A;
 }
+
 
 img {
     display: block;
